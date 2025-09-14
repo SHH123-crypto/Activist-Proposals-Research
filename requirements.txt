@@ -1,0 +1,8 @@
+crawl4ai
+python-dotenv
+pydantic
+playwright
+requests
+torch
+transformers
+groq

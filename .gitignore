@@ -1,0 +1,115 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.temp
+
+# Logs
+*.log
+logs/
+
+# API Keys (keep template)
+key.env
+!key.env.template
+
+# Progress files (regenerated)
+*_progress.json
+*_summary.json
+
+# Outdated files (as identified in cleanup)
+main.py
+main_optimized.py
+main_research_grade.py
+main_ultimate.py
+scraper2.py
+testscraper.py
+simple_test.py
+quick_test.py
+test_crawler.py
+debug_main.py
+detailed_price_scraper.py
+efficient_price_scraper.py
+enhanced_research_scraper.py
+fast_major_daos_scraper.py
+massive_research_scraper.py
+research_grade_scraper.py
+tally_api_scraper.py
+tally_api_solution.py
+multi_source_price_scraper.py
+multi_source_scraper.py
+ultimate_dao_scraper.py
+
+# Outdated data folders
+complete_proposal_price_data/
+proposal_price_data/
+individual_analysis_reports/
+
+# Outdated documentation
+FINAL_RESEARCH_SOLUTION.md
+INDIVIDUAL_PROPOSAL_ANALYSIS_SUMMARY.md
+MULTI_SOURCE_COMPLETE_SOLUTION.md
+SOLUTION_SUMMARY.md
+
+# Outdated datasets
+activist_proposals_detailed.json
+activist_proposals_optimized.csv
+alternative_dao_proposals.json
+comprehensive_dao_proposals.json
+enhanced_research_dataset.csv
+enhanced_research_dataset.json
+fast_major_daos_dataset.csv
+fast_major_daos_dataset.json
+tally_api_proposals.json
+ultimate_activist_proposals.csv
+ultimate_activist_proposals.json
+ultimate_dao_proposals.json
+voting_enhanced_research_dataset.csv
+voting_enhanced_research_dataset.json
