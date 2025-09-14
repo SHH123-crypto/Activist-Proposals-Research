@@ -1,0 +1,86 @@
+{
+  "total_proposals_attempted": 27,
+  "successful_scrapes": 27,
+  "failed_scrapes": 0,
+  "success_rate": 100.0,
+  "total_data_points": 5042,
+  "dao_statistics": {
+    "ens.eth": {
+      "proposals": 2,
+      "data_points": 352,
+      "avg_activist_score": 0.325,
+      "sources_used": [
+        "yahoo"
+      ]
+    },
+    "balancer.eth": {
+      "proposals": 1,
+      "data_points": 190,
+      "avg_activist_score": 0.4,
+      "sources_used": [
+        "coingecko"
+      ]
+    },
+    "1inch.eth": {
+      "proposals": 3,
+      "data_points": 570,
+      "avg_activist_score": 0.3,
+      "sources_used": [
+        "yahoo"
+      ]
+    },
+    "frax.eth": {
+      "proposals": 1,
+      "data_points": 190,
+      "avg_activist_score": 0.25,
+      "sources_used": [
+        "yahoo"
+      ]
+    },
+    "olympusdao.eth": {
+      "proposals": 2,
+      "data_points": 380,
+      "avg_activist_score": 0.25,
+      "sources_used": [
+        "yahoo"
+      ]
+    },
+    "fei.eth": {
+      "proposals": 7,
+      "data_points": 1330,
+      "avg_activist_score": 0.3,
+      "sources_used": [
+        "yahoo"
+      ]
+    },
+    "cream-finance.eth": {
+      "proposals": 8,
+      "data_points": 1520,
+      "avg_activist_score": 0.25,
+      "sources_used": [
+        "yahoo"
+      ]
+    },
+    "pickle.eth": {
+      "proposals": 3,
+      "data_points": 510,
+      "avg_activist_score": 0.31666666666666665,
+      "sources_used": [
+        "yahoo"
+      ]
+    }
+  },
+  "source_statistics": {
+    "coingecko": 1,
+    "yahoo": 26,
+    "binance": 0
+  },
+  "activist_filtering": {
+    "total_proposals_analyzed": 681,
+    "activist_proposals_found": 37,
+    "activist_rate": 5.4,
+    "min_activist_score": 0.25
+  },
+  "output_directory": "ultimate_proposal_data",
+  "timestamp": "2025-09-10T21:37:20.637989"
+}
