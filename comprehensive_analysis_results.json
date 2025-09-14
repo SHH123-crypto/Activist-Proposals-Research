@@ -1,0 +1,878 @@
+{
+  "dataset_overview": {
+    "total_proposals": 681,
+    "total_unique_daos": 26,
+    "total_sources": 3,
+    "activist_proposals": 540,
+    "activist_rate": 79.29515418502203
+  },
+  "dao_analysis": {
+    "total_unique_daos": 26,
+    "dao_statistics": {
+      "ens.eth": {
+        "total_proposals": 64,
+        "activist_proposals": 56,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos",
+          "ultimate_dao"
+        ],
+        "activist_rate": 87.5
+      },
+      "balancer.eth": {
+        "total_proposals": 66,
+        "activist_proposals": 62,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos",
+          "ultimate_dao"
+        ],
+        "activist_rate": 93.93939393939394
+      },
+      "curve.eth": {
+        "total_proposals": 10,
+        "activist_proposals": 10,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "yearn": {
+        "total_proposals": 8,
+        "activist_proposals": 8,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "1inch.eth": {
+        "total_proposals": 49,
+        "activist_proposals": 39,
+        "avg_activist_score": 0,
+        "sources": [
+          "comprehensive_dao",
+          "fast_major_daos"
+        ],
+        "activist_rate": 79.59183673469387
+      },
+      "frax.eth": {
+        "total_proposals": 82,
+        "activist_proposals": 82,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "olympusdao.eth": {
+        "total_proposals": 64,
+        "activist_proposals": 64,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "tokemak.eth": {
+        "total_proposals": 1,
+        "activist_proposals": 1,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "fei.eth": {
+        "total_proposals": 89,
+        "activist_proposals": 89,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "cream-finance.eth": {
+        "total_proposals": 76,
+        "activist_proposals": 76,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "pickle.eth": {
+        "total_proposals": 38,
+        "activist_proposals": 38,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "uma.eth": {
+        "total_proposals": 12,
+        "activist_proposals": 12,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "metacartel.eth": {
+        "total_proposals": 1,
+        "activist_proposals": 1,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "colony.eth": {
+        "total_proposals": 2,
+        "activist_proposals": 2,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "arbitrumfoundation.eth": {
+        "total_proposals": 20,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "opcollective.eth": {
+        "total_proposals": 19,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "comprehensive_dao",
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "uniswapgovernance.eth": {
+        "total_proposals": 20,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "gitcoindao.eth": {
+        "total_proposals": 20,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "makerdao": {
+        "total_proposals": 3,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "lido": {
+        "total_proposals": 9,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "arbitrum": {
+        "total_proposals": 1,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "optimism": {
+        "total_proposals": 1,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "uniswap": {
+        "total_proposals": 1,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "ens": {
+        "total_proposals": 1,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "gitcoin": {
+        "total_proposals": 9,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "comprehensive_dao",
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "sushigov.eth": {
+        "total_proposals": 15,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "comprehensive_dao"
+        ],
+        "activist_rate": 0.0
+      }
+    },
+    "top_daos_by_total_proposals": {
+      "fei.eth": {
+        "total_proposals": 89,
+        "activist_proposals": 89,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "frax.eth": {
+        "total_proposals": 82,
+        "activist_proposals": 82,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "cream-finance.eth": {
+        "total_proposals": 76,
+        "activist_proposals": 76,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "balancer.eth": {
+        "total_proposals": 66,
+        "activist_proposals": 62,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos",
+          "ultimate_dao"
+        ],
+        "activist_rate": 93.93939393939394
+      },
+      "ens.eth": {
+        "total_proposals": 64,
+        "activist_proposals": 56,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos",
+          "ultimate_dao"
+        ],
+        "activist_rate": 87.5
+      },
+      "olympusdao.eth": {
+        "total_proposals": 64,
+        "activist_proposals": 64,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "1inch.eth": {
+        "total_proposals": 49,
+        "activist_proposals": 39,
+        "avg_activist_score": 0,
+        "sources": [
+          "comprehensive_dao",
+          "fast_major_daos"
+        ],
+        "activist_rate": 79.59183673469387
+      },
+      "pickle.eth": {
+        "total_proposals": 38,
+        "activist_proposals": 38,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "arbitrumfoundation.eth": {
+        "total_proposals": 20,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "uniswapgovernance.eth": {
+        "total_proposals": 20,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "gitcoindao.eth": {
+        "total_proposals": 20,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "opcollective.eth": {
+        "total_proposals": 19,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "comprehensive_dao",
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "sushigov.eth": {
+        "total_proposals": 15,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "comprehensive_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "uma.eth": {
+        "total_proposals": 12,
+        "activist_proposals": 12,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "curve.eth": {
+        "total_proposals": 10,
+        "activist_proposals": 10,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "lido": {
+        "total_proposals": 9,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "gitcoin": {
+        "total_proposals": 9,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "comprehensive_dao",
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "yearn": {
+        "total_proposals": 8,
+        "activist_proposals": 8,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "makerdao": {
+        "total_proposals": 3,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "colony.eth": {
+        "total_proposals": 2,
+        "activist_proposals": 2,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      }
+    },
+    "top_daos_by_activist_proposals": {
+      "fei.eth": {
+        "total_proposals": 89,
+        "activist_proposals": 89,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "frax.eth": {
+        "total_proposals": 82,
+        "activist_proposals": 82,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "cream-finance.eth": {
+        "total_proposals": 76,
+        "activist_proposals": 76,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "olympusdao.eth": {
+        "total_proposals": 64,
+        "activist_proposals": 64,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "balancer.eth": {
+        "total_proposals": 66,
+        "activist_proposals": 62,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos",
+          "ultimate_dao"
+        ],
+        "activist_rate": 93.93939393939394
+      },
+      "ens.eth": {
+        "total_proposals": 64,
+        "activist_proposals": 56,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos",
+          "ultimate_dao"
+        ],
+        "activist_rate": 87.5
+      },
+      "1inch.eth": {
+        "total_proposals": 49,
+        "activist_proposals": 39,
+        "avg_activist_score": 0,
+        "sources": [
+          "comprehensive_dao",
+          "fast_major_daos"
+        ],
+        "activist_rate": 79.59183673469387
+      },
+      "pickle.eth": {
+        "total_proposals": 38,
+        "activist_proposals": 38,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "uma.eth": {
+        "total_proposals": 12,
+        "activist_proposals": 12,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "curve.eth": {
+        "total_proposals": 10,
+        "activist_proposals": 10,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "yearn": {
+        "total_proposals": 8,
+        "activist_proposals": 8,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "colony.eth": {
+        "total_proposals": 2,
+        "activist_proposals": 2,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "tokemak.eth": {
+        "total_proposals": 1,
+        "activist_proposals": 1,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "metacartel.eth": {
+        "total_proposals": 1,
+        "activist_proposals": 1,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "arbitrumfoundation.eth": {
+        "total_proposals": 20,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "opcollective.eth": {
+        "total_proposals": 19,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "comprehensive_dao",
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "uniswapgovernance.eth": {
+        "total_proposals": 20,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "gitcoindao.eth": {
+        "total_proposals": 20,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "makerdao": {
+        "total_proposals": 3,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "lido": {
+        "total_proposals": 9,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      }
+    },
+    "top_daos_by_activist_rate": {
+      "curve.eth": {
+        "total_proposals": 10,
+        "activist_proposals": 10,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "yearn": {
+        "total_proposals": 8,
+        "activist_proposals": 8,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "frax.eth": {
+        "total_proposals": 82,
+        "activist_proposals": 82,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "olympusdao.eth": {
+        "total_proposals": 64,
+        "activist_proposals": 64,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "tokemak.eth": {
+        "total_proposals": 1,
+        "activist_proposals": 1,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "fei.eth": {
+        "total_proposals": 89,
+        "activist_proposals": 89,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "cream-finance.eth": {
+        "total_proposals": 76,
+        "activist_proposals": 76,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "pickle.eth": {
+        "total_proposals": 38,
+        "activist_proposals": 38,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "uma.eth": {
+        "total_proposals": 12,
+        "activist_proposals": 12,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "metacartel.eth": {
+        "total_proposals": 1,
+        "activist_proposals": 1,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "colony.eth": {
+        "total_proposals": 2,
+        "activist_proposals": 2,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos"
+        ],
+        "activist_rate": 100.0
+      },
+      "balancer.eth": {
+        "total_proposals": 66,
+        "activist_proposals": 62,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos",
+          "ultimate_dao"
+        ],
+        "activist_rate": 93.93939393939394
+      },
+      "ens.eth": {
+        "total_proposals": 64,
+        "activist_proposals": 56,
+        "avg_activist_score": 0,
+        "sources": [
+          "fast_major_daos",
+          "ultimate_dao"
+        ],
+        "activist_rate": 87.5
+      },
+      "1inch.eth": {
+        "total_proposals": 49,
+        "activist_proposals": 39,
+        "avg_activist_score": 0,
+        "sources": [
+          "comprehensive_dao",
+          "fast_major_daos"
+        ],
+        "activist_rate": 79.59183673469387
+      },
+      "arbitrumfoundation.eth": {
+        "total_proposals": 20,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "opcollective.eth": {
+        "total_proposals": 19,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "comprehensive_dao",
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "uniswapgovernance.eth": {
+        "total_proposals": 20,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "gitcoindao.eth": {
+        "total_proposals": 20,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "makerdao": {
+        "total_proposals": 3,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      },
+      "lido": {
+        "total_proposals": 9,
+        "activist_proposals": 0,
+        "avg_activist_score": 0,
+        "sources": [
+          "ultimate_dao"
+        ],
+        "activist_rate": 0.0
+      }
+    }
+  },
+  "proposal_analysis": {
+    "avg_title_length": 50.709251101321584,
+    "avg_body_length": 326.9562594268477,
+    "proposal_states": {
+      "closed": 654,
+      "active": 25,
+      "discussion": 1,
+      "ratified": 1
+    },
+    "proposals_with_authors": 540,
+    "proposals_with_links": 141
+  },
+  "activist_analysis": {
+    "total_activist_proposals": 540,
+    "avg_activist_score": 0.8168462962962962,
+    "avg_keyword_hits": 4.25,
+    "detection_methods": {
+      "enhanced_fast": 540
+    },
+    "high_confidence_activist": 445,
+    "medium_confidence_activist": 95
+  },
+  "source_analysis": {
+    "total_sources": 3,
+    "source_statistics": {
+      "fast_major_daos": {
+        "total_proposals": 540,
+        "activist_proposals": 540,
+        "unique_daos": 14,
+        "activist_rate": 100.0
+      },
+      "ultimate_dao": {
+        "total_proposals": 107,
+        "activist_proposals": 0,
+        "unique_daos": 13,
+        "activist_rate": 0.0
+      },
+      "comprehensive_dao": {
+        "total_proposals": 34,
+        "activist_proposals": 0,
+        "unique_daos": 4,
+        "activist_rate": 0.0
+      }
+    }
+  },
+  "temporal_analysis": {
+    "proposals_with_timestamps": 540,
+    "temporal_coverage": "Analysis requires date parsing implementation"
+  },
+  "quality_metrics": {
+    "completeness": {
+      "proposals_with_titles": 100.0,
+      "proposals_with_bodies": 97.3568281938326,
+      "proposals_with_daos": 100.0,
+      "proposals_with_authors": 79.29515418502203
+    },
+    "diversity": {
+      "unique_daos": 26,
+      "unique_sources": 3,
+      "dao_coverage_score": 0.26
+    },
+    "activist_detection": {
+      "proposals_with_scores": 540,
+      "avg_detection_confidence": 0.6477195301027899
+    }
+  }
+}

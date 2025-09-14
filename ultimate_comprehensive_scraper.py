@@ -918,9 +918,15 @@ def main():
     """Main execution function for ultimate comprehensive scraping"""
     scraper = UltimateComprehensiveScraper()
 
-    # Configuration
-    dataset_file = "comprehensive_research_dataset.csv"
-    min_activist_score = 0.25  # Lower threshold to capture more activist proposals
+    # Configuration - Check for expanded dataset first
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1] == "--expanded":
+        dataset_file = "immediate_expansion_data/expanded_activist_proposals_20250914_150333.csv"
+        min_activist_score = 0.0  # Use pre-filtered data
+        print("🎯 Using expanded activist dataset (150 proposals)")
+    else:
+        dataset_file = "comprehensive_research_dataset.csv"
+        min_activist_score = 0.25  # Lower threshold to capture more activist proposals
 
     try:
         print(f"🚀 Starting ultimate comprehensive scraping...")

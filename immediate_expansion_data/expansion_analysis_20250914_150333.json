@@ -1,0 +1,268 @@
+{
+  "timestamp": "20250914_150333",
+  "expansion_summary": {
+    "original_proposals": 27,
+    "expanded_proposals": 150,
+    "expansion_factor": 5.555555555555555,
+    "min_activist_score": 0.15,
+    "detection_method": "relaxed_criteria"
+  },
+  "score_distribution": {
+    "total_proposals": 150,
+    "score_stats": {
+      "min": 0.15,
+      "max": 0.49,
+      "mean": 0.2066,
+      "median": 0.19
+    },
+    "score_ranges": {
+      "0.15-0.20": 83,
+      "0.20-0.25": 39,
+      "0.25-0.30": 23,
+      "0.30-0.35": 3,
+      "0.35-0.40": 1,
+      "0.40+": 1
+    },
+    "detection_methods": {
+      "pattern_matching_community_initiative": 11,
+      "sentiment_analysis": 147,
+      "structural_analysis": 145,
+      "title_analysis": 46,
+      "pattern_matching_financial_activism": 11,
+      "pattern_matching_governance_change": 3,
+      "pattern_matching_emergency_action": 1,
+      "pattern_matching_protocol_activism": 8,
+      "pattern_matching_partnership_activism": 3,
+      "pattern_matching_governance_change+partnership_activism": 1,
+      "pattern_matching_leadership_change": 2,
+      "pattern_matching_leadership_change+community_initiative": 1,
+      "pattern_matching_technical_activism": 1
+    }
+  },
+  "dao_coverage": {
+    "ens.eth": {
+      "proposals": 7,
+      "avg_activist_score": 0.21142857142857144,
+      "score_sum": 1.48
+    },
+    "balancer.eth": {
+      "proposals": 7,
+      "avg_activist_score": 0.23714285714285713,
+      "score_sum": 1.66
+    },
+    "curve.eth": {
+      "proposals": 1,
+      "avg_activist_score": 0.15,
+      "score_sum": 0.15
+    },
+    "yearn": {
+      "proposals": 1,
+      "avg_activist_score": 0.18,
+      "score_sum": 0.18
+    },
+    "1inch.eth": {
+      "proposals": 12,
+      "avg_activist_score": 0.20666666666666664,
+      "score_sum": 2.4799999999999995
+    },
+    "frax.eth": {
+      "proposals": 9,
+      "avg_activist_score": 0.2288888888888889,
+      "score_sum": 2.06
+    },
+    "olympusdao.eth": {
+      "proposals": 11,
+      "avg_activist_score": 0.18909090909090906,
+      "score_sum": 2.0799999999999996
+    },
+    "fei.eth": {
+      "proposals": 17,
+      "avg_activist_score": 0.20823529411764707,
+      "score_sum": 3.54
+    },
+    "cream-finance.eth": {
+      "proposals": 15,
+      "avg_activist_score": 0.18666666666666668,
+      "score_sum": 2.8000000000000003
+    },
+    "pickle.eth": {
+      "proposals": 6,
+      "avg_activist_score": 0.22,
+      "score_sum": 1.32
+    },
+    "uma.eth": {
+      "proposals": 2,
+      "avg_activist_score": 0.21500000000000002,
+      "score_sum": 0.43000000000000005
+    },
+    "NaN": {
+      "proposals": 62,
+      "avg_activist_score": 0.2066129032258065,
+      "score_sum": 12.810000000000002
+    }
+  },
+  "top_daos_by_proposals": [
+    [
+      NaN,
+      {
+        "proposals": 62,
+        "avg_activist_score": 0.2066129032258065,
+        "score_sum": 12.810000000000002
+      }
+    ],
+    [
+      "fei.eth",
+      {
+        "proposals": 17,
+        "avg_activist_score": 0.20823529411764707,
+        "score_sum": 3.54
+      }
+    ],
+    [
+      "cream-finance.eth",
+      {
+        "proposals": 15,
+        "avg_activist_score": 0.18666666666666668,
+        "score_sum": 2.8000000000000003
+      }
+    ],
+    [
+      "1inch.eth",
+      {
+        "proposals": 12,
+        "avg_activist_score": 0.20666666666666664,
+        "score_sum": 2.4799999999999995
+      }
+    ],
+    [
+      "olympusdao.eth",
+      {
+        "proposals": 11,
+        "avg_activist_score": 0.18909090909090906,
+        "score_sum": 2.0799999999999996
+      }
+    ],
+    [
+      "frax.eth",
+      {
+        "proposals": 9,
+        "avg_activist_score": 0.2288888888888889,
+        "score_sum": 2.06
+      }
+    ],
+    [
+      "ens.eth",
+      {
+        "proposals": 7,
+        "avg_activist_score": 0.21142857142857144,
+        "score_sum": 1.48
+      }
+    ],
+    [
+      "balancer.eth",
+      {
+        "proposals": 7,
+        "avg_activist_score": 0.23714285714285713,
+        "score_sum": 1.66
+      }
+    ],
+    [
+      "pickle.eth",
+      {
+        "proposals": 6,
+        "avg_activist_score": 0.22,
+        "score_sum": 1.32
+      }
+    ],
+    [
+      "uma.eth",
+      {
+        "proposals": 2,
+        "avg_activist_score": 0.21500000000000002,
+        "score_sum": 0.43000000000000005
+      }
+    ]
+  ],
+  "top_daos_by_activist_score": [
+    [
+      "balancer.eth",
+      {
+        "proposals": 7,
+        "avg_activist_score": 0.23714285714285713,
+        "score_sum": 1.66
+      }
+    ],
+    [
+      "frax.eth",
+      {
+        "proposals": 9,
+        "avg_activist_score": 0.2288888888888889,
+        "score_sum": 2.06
+      }
+    ],
+    [
+      "pickle.eth",
+      {
+        "proposals": 6,
+        "avg_activist_score": 0.22,
+        "score_sum": 1.32
+      }
+    ],
+    [
+      "uma.eth",
+      {
+        "proposals": 2,
+        "avg_activist_score": 0.21500000000000002,
+        "score_sum": 0.43000000000000005
+      }
+    ],
+    [
+      "ens.eth",
+      {
+        "proposals": 7,
+        "avg_activist_score": 0.21142857142857144,
+        "score_sum": 1.48
+      }
+    ],
+    [
+      "fei.eth",
+      {
+        "proposals": 17,
+        "avg_activist_score": 0.20823529411764707,
+        "score_sum": 3.54
+      }
+    ],
+    [
+      "1inch.eth",
+      {
+        "proposals": 12,
+        "avg_activist_score": 0.20666666666666664,
+        "score_sum": 2.4799999999999995
+      }
+    ],
+    [
+      NaN,
+      {
+        "proposals": 62,
+        "avg_activist_score": 0.2066129032258065,
+        "score_sum": 12.810000000000002
+      }
+    ],
+    [
+      "olympusdao.eth",
+      {
+        "proposals": 11,
+        "avg_activist_score": 0.18909090909090906,
+        "score_sum": 2.0799999999999996
+      }
+    ],
+    [
+      "cream-finance.eth",
+      {
+        "proposals": 15,
+        "avg_activist_score": 0.18666666666666668,
+        "score_sum": 2.8000000000000003
+      }
+    ]
+  ]
+}

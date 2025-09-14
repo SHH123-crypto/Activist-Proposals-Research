@@ -1,0 +1,339 @@
+{
+  "timestamp": "2025-09-14T15:59:17.179800",
+  "total_proposals": 150,
+  "completed_proposals": 88,
+  "missing_proposals": 62,
+  "coverage_percentage": 58.666666666666664,
+  "missing_by_dao": {
+    "arbitrumfoundation.eth": [
+      {
+        "proposal_id": "0xb41324ddcc115d08149b192e0b8ae4cfad0ef39cecb5663ea63d8a460d2cb3cc",
+        "title": "[CONSTITUTIONAL] AIP: Security Council Election Process Improvements",
+        "activist_score": 0.24
+      },
+      {
+        "proposal_id": "0xb1a39a0b7543e03cbb7aca0213448f4fbed4cbf1157fcb1b2458540fb452bc73",
+        "title": "Revert the Delegate Incentive Program (DIP) to Version 1.5",
+        "activist_score": 0.27
+      },
+      {
+        "proposal_id": "0x33754da4006d0ef38666ec5d5e85fd0966a891a594ab9dc21f23beedea2d330b",
+        "title": "[CONSTITUTIONAL] AIP: ArbOS Version 50 Dia",
+        "activist_score": 0.16
+      },
+      {
+        "proposal_id": "0x008f190725018c3db0e6464bf31d44f09a4d7773fd1486dff0c52c27b8aba289",
+        "title": "[Non-Constitutional] - Updates to the DIP, The Complete 1.7 Version",
+        "activist_score": 0.18
+      },
+      {
+        "proposal_id": "0x95a85f5d3d82215793ba9771ff06610d2ba9e2eaf58cdba904d7a9cb5b8bdc94",
+        "title": "Consolidate Idle USDC to the ATMC\u2019s Stablecoin Balance",
+        "activist_score": 0.16
+      },
+      {
+        "proposal_id": "0x586de5bf366820c4369c041b0bbad2254d78fafe1dcc1528c1ed661bb4dfb671",
+        "title": "[CONSTITUTIONAL] Register $BORING in the Arbitrum generic-custom gateway",
+        "activist_score": 0.22
+      },
+      {
+        "proposal_id": "0xc08147e229fa642ee7da2e5180f225122b8c517024902f21cdcd02b376179b8d",
+        "title": "[Constitutional] AIP: Update the Upgrade Executors",
+        "activist_score": 0.28
+      },
+      {
+        "proposal_id": "0x320cd2a99a0544184c06e1bd305aab1fc226ab0b498e077bc857a07045194f43",
+        "title": "Entropy Advisors: Exclusively Working with the Arbitrum DAO, Year 2 and Year 3",
+        "activist_score": 0.16
+      },
+      {
+        "proposal_id": "0xfab795313df4ef1023c5f7f9027857637cc3841d62dc0b54796fbfa5f8096919",
+        "title": "Arbitrum Treasury Management Council - Consolidating Efforts",
+        "activist_score": 0.24
+      },
+      {
+        "proposal_id": "0x38663c36b26252acff6c6ca43663167858f51f960235dc0441bd2ad4a8f66fb1",
+        "title": "Let\u2019s improve our governance forum with three proposals.app feature integrations",
+        "activist_score": 0.49
+      },
+      {
+        "proposal_id": "0xfd373c58adbb013a05c778b71ccffb19e5bbefb8a100232f67eced33c58e22f7",
+        "title": "Reallocate Redeemed USDM Funds to STEP 2 Budget",
+        "activist_score": 0.23
+      }
+    ],
+    "opcollective.eth": [
+      {
+        "proposal_id": "0xfeb1832a75e2ef47dea4b08509a16e4e9176e9d2a962c9466c5d345b37428384",
+        "title": "Season 2: Cycle 8: Velodrome ",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0x2a7436c5bebeaee1a369e484a212a183da549dfce0393d6dc1f84837e8c5c79d",
+        "title": "Season 2: Cycle 8: Mochi",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0x71f465ebc109ddbda430a6a0312a43c324d0653624eb22e126e7503681dceb10",
+        "title": "Season 2: Cycle 8: Ambire Wallet",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0x474cbf8c806f30d016ea4ca0ad3fb5605391df6a3fa34a1aead7df61a9e4cc28",
+        "title": "Season 2: Cycle 8: Agora",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0xe97adad42eb8c0072edee33de2c68191cd2e8a0ae615ab94ebb60bdc73a7d3f2",
+        "title": "Season 2: Cycle 8: DefiLlama",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0xcf871243191a3e0672caa7b7a29ee1be8f917288d844fc9345f56b777a595659",
+        "title": "Season 2: Cycle 8: Messari",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0xf44f4767df0341611940e74316ff1aa5047761f04a97eb9681aa96b8c71da75a",
+        "title": "Season 2: Cycle 8: Tally Ho",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0x05126c50a6227f339b64d712e6bf070c769f410bcd7cdbe62ba6493ab49b08e6",
+        "title": "Season 2: Cycle 8: EthernautDAO",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0x066ab540856b7f00a42fbf5b96fbe627735b740bc009b356d69349afd023720f",
+        "title": "Season 2: Cycle 8: Socket",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0xfba0828a2f887ce56f6c7a548e886fb2028cb062057ff3ca55c6eff95260c9a8",
+        "title": "Season 2: Cycle 8: Curve ",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0x8160b000b3c2977889daf8ea63a7ead186efde83376c00e9dac3269fb4dcd544",
+        "title": "Season 2: Cycle 8:  InsureDAO",
+        "activist_score": 0.16
+      }
+    ],
+    "uniswapgovernance.eth": [
+      {
+        "proposal_id": "0x1423731999c4ddd17568ac01b1b0f64f12c26138f0c3f9284dd688fa1d665989",
+        "title": "GLI \u2014 Incentivized Delegation Vaults",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0x0d56ae30379b00f3862b3e13ef44ce628f3d19609984b8fcfcf90e48b35842e8",
+        "title": "GLI \u2014 Treasury delegation Round 2",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0xfc6edc8b64e1fa8eef46d187557969b14ca24ac58b8b6d6b302ea27a2213849d",
+        "title": "Launching Uniswap v3 on Ronin with co-incentives",
+        "activist_score": 0.16
+      },
+      {
+        "proposal_id": "0xc689d74757ccf1de09c3b8656dcd2f0d678972c9715a318aa4e9b659a5ebaca1",
+        "title": "[TEMP CHECK] - Etherlink Co-incentives Proposal",
+        "activist_score": 0.23
+      },
+      {
+        "proposal_id": "0xb9a79884fab779132907835d8c6360b781ed0a17c8a33ac41594a27f6c366ce4",
+        "title": "Uniswap Accountability Committee S4 Elections",
+        "activist_score": 0.26
+      },
+      {
+        "proposal_id": "0x58f16ed9e140551bb80d265ea9b958e96c542a7d7afc081610f72506a4f7cb05",
+        "title": "[TEMP CHECK] Scaling V4 and Supporting Unichain",
+        "activist_score": 0.29
+      },
+      {
+        "proposal_id": "0x46fef087a43555e156db287d370151a76e19e1e2cd7d36f442409987f93d4215",
+        "title": "[Temp Check/Revised] Treasury Delegation Round 2",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0x629995d68efbfea149bbd4fdc35cfcacca9bd327e3cbf1382fd6753df583e890",
+        "title": "UAC Renewal S4",
+        "activist_score": 0.15
+      },
+      {
+        "proposal_id": "0xad0e29aa7bc8e783c15b959b92b02b871af879b8f36372e80fc5ff5fc189ed8f",
+        "title": "[TEMP CHECK] BoB Uniswap v3 Incentives Package",
+        "activist_score": 0.16
+      },
+      {
+        "proposal_id": "0xe7fb39bd6f16b65d0847cdd6ab6ecef3a6c1e89bd523cf895f3d806c4bb4b1cf",
+        "title": "[Temp Check] Unichain and Uniswap v4 Liquidity Incentives",
+        "activist_score": 0.22
+      }
+    ],
+    "ens.eth": [
+      {
+        "proposal_id": "0xf06f3ad61f9f77c8ed362dd54913cc44d030841eebebfffce4dd6605b1b0e6f3",
+        "title": "[EP6.16] [Social] Enhancing ENS Governance with Tally\u2019s Enterprise Support",
+        "activist_score": 0.18
+      },
+      {
+        "proposal_id": "0x2c07add832383dc6900077406b4241a34dc4923ba209e2d07d1a4243a18fcdef",
+        "title": "[6.6.2] [Social] April Funding Request - ENS Public Goods Working Group Term 6",
+        "activist_score": 0.23
+      },
+      {
+        "proposal_id": "0xf0c3a2fe4bd085ea74a072cafb830aaadb4830b557a3d122eab36058a17c1860",
+        "title": "[EP 6.4] [Social] Service Provider Season 2 Vote Amendment Proposal",
+        "activist_score": 0.18
+      },
+      {
+        "proposal_id": "0x5067725bef9cde0de0024adedb653a7a1752aefa726adf628b77048d85821a6d",
+        "title": "[EP 5.21] [Social] Governance Security Bounty",
+        "activist_score": 0.16
+      },
+      {
+        "proposal_id": "0x0f906ef744da4aace051305dff824fe7b000814f23af36f037f0dd23a1a94f98",
+        "title": "[5.17.1] [Social] Funding Request: ENS Meta-Governance Working Group Term 5 (Oct. Window)",
+        "activist_score": 0.21
+      }
+    ],
+    "gitcoindao.eth": [
+      {
+        "proposal_id": "0x5a60edb6ae264e1d659a68e9c9af106dfcfd3e3dd3f7d0722e080932dfbb15ad",
+        "title": "Gitcoin Governance Council Term 2 - Community Vote",
+        "activist_score": 0.33
+      },
+      {
+        "proposal_id": "0x92a36f55042108a839328a18f23b64dfdf1610e37a9ae00fb4ea130e45ad1583",
+        "title": "Grant Ships - Powering GG23 and Beyond",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0x63d2957d2ed09d345e22c610cf4898a4a3d1e326fc915f15abed748808021f5a",
+        "title": "[REVOTE] GG23 Pre-Ratification Proposal",
+        "activist_score": 0.15
+      },
+      {
+        "proposal_id": "0xcf00de512cb500c78178a32db3a93528d7b5983d51105c5372151867eaeb1dce",
+        "title": "[SGTM 004]: Generating Yield on DAO Treasury Assets to Support Runway",
+        "activist_score": 0.16
+      },
+      {
+        "proposal_id": "0x143291bab99a740eba64c18101a6203bd2d9c81bbcdef1b4c8cbc9b6a5973007",
+        "title": "GG23 Pre Ratification Proposal",
+        "activist_score": 0.15
+      },
+      {
+        "proposal_id": "0xe4e2086ae834a7c2776a9bbbf1bfc5b52ff78c8d01224048ebac7c568c7238a0",
+        "title": "VOTING for 5 Delegates -- 2025 Delegate Nominations",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0xee2ebda98e107e57eb4bb19fd63a19f52bb73c9c38225ba8da65ef40388c2318",
+        "title": "Approve Multisig Structure for Avantgarde to Manage the Matching Pool Assets",
+        "activist_score": 0.26
+      },
+      {
+        "proposal_id": "0x845c3c57d7f03dcf1a1e6c2c09ba3a68006b75e409cad9345276ff4c5d8d8c38",
+        "title": "[PROPOSAL] Budget Request - Schelling Point & Eth Denver 2025",
+        "activist_score": 0.1999999999999999
+      },
+      {
+        "proposal_id": "0xb8dfbefd47373a98ac4684af50f61dad738650830f4f106347cb3c4a8dec79ab",
+        "title": "[Proposal] Revamp Gitcoin 2025 Governance",
+        "activist_score": 0.27
+      },
+      {
+        "proposal_id": "0x8b698644c08b424f87709228caa0ee11af6a3a047d47032b0f45a7f971d15696",
+        "title": "[Proposal] Engage Avantgarde for Strategic Asset Management of the Matching Pool",
+        "activist_score": 0.15
+      },
+      {
+        "proposal_id": "0x708e9b02a7c5c173aeefa353fc78cd5d2d1e6ea05163481276be2f580355b9e1",
+        "title": "[Proposal] Unlock up to $20K in matching funds/yr by exchanging $500k USDC for USDGLO",
+        "activist_score": 0.15
+      },
+      {
+        "proposal_id": "0x060949f5b000ee923a3478933274ed82130af924ffd0d774883f9f1b88622e9e",
+        "title": "Proposal: Approve the pre-ratified matching fund amounts for GG22",
+        "activist_score": 0.15
+      },
+      {
+        "proposal_id": "0xe4ea71ad1e49384952cf6bfd8c02e3a0669fe8f2d3fe39f88d614bba358d0263",
+        "title": "Earmark 6.9m GTC to Citizens Fund",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0xb021cddb9662406e2655b654f23077b99d2717b41dbfe217c08299f613055433",
+        "title": "Delegate Gitcoin\u2019s GloDollar to fund public goods via GloDollar",
+        "activist_score": 0.26
+      }
+    ],
+    "balancer.eth": [
+      {
+        "proposal_id": "0x9cd16d8bd89820d6f1575decf678425528a8811237fe01ac329dea1368c3e086",
+        "title": "[BIP-862] Deploy Balancer v3 on HyperEVM",
+        "activist_score": 0.16
+      },
+      {
+        "proposal_id": "0x170b8248639ea716f628d6bd935324e5a4168d8b0e489722268cfc933f98c526",
+        "title": "[BIP-856] Grant Admin Permissions to Balancer v3 ReCLAMM v2 pools",
+        "activist_score": 0.16
+      }
+    ],
+    "uniswap": [
+      {
+        "proposal_id": "manual_uniswap_v4",
+        "title": "Uniswap v4 Governance and Fee Structure",
+        "activist_score": 0.23
+      }
+    ],
+    "1inch.eth": [
+      {
+        "proposal_id": "0x183976fda56e26ecfe1e2a6334f5211d8a9f501a3f0224259539f4d644db3a8e",
+        "title": "[1IP-84] 1inch DAO Forum Migration Proposal: Commonwealth to Discourse",
+        "activist_score": 0.26
+      },
+      {
+        "proposal_id": "0x7a8f995b95ebb3e6ae62a2638470eca2fbc6c9ed9d10100aae5d2c722fab29e2",
+        "title": "[1IP-82] Request for Grant: Cross-Chain Exchange through Secret Swaps",
+        "activist_score": 0.21
+      },
+      {
+        "proposal_id": "0xb2aaa5033630a61dca276f8fc3477b97e16dae7d6631d6fe472e743fdc57ae64",
+        "title": "[1IP-81] Next Phase of the Alternative Interface: Solana, Security & P2P Updates",
+        "activist_score": 0.24
+      }
+    ],
+    "sushigov.eth": [
+      {
+        "proposal_id": "0xdec0263f8991b3d8c2f6b94e1f89e81ee7f4a66a387b196d74196a6cef73b04f",
+        "title": "Treasury Diversifications [Implementation]",
+        "activist_score": 0.23
+      },
+      {
+        "proposal_id": "0xb9d4a5edb70aad568b4a7b71d9fb2ee0e5ca366fcd5cf6b9200cdec6a5c4073d",
+        "title": "Sushi High Kitchen Candidate - Hee-Sang Koo [Implementation]",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0x526c07c7c4631bc2f8844a1b7ff23156e192767563b016408f9066a1188bf004",
+        "title": "Evolving Sushi - Bur\u016b no Shinka [Implementation]",
+        "activist_score": 0.22
+      },
+      {
+        "proposal_id": "0x21aa6c89fd5e4111e6046cfc12cc7280f2be13f8452e61a0025454678d1ff9d0",
+        "title": "Evolving Sushi - Bur\u016b no Shinka [Signal]",
+        "activist_score": 0.19
+      },
+      {
+        "proposal_id": "0xf00d3a6e48bb398aa9d4d5e5fc04f269acbd47cb123368a25a5aca8a6f4dbcf7",
+        "title": "Legal Entity Update & Proposed Changes [Signal]",
+        "activist_score": 0.23
+      }
+    ]
+  },
+  "token_mappings_found": 4,
+  "potential_additional_coverage": 11
+}

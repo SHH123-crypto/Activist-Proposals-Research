@@ -1,0 +1,74 @@
+{
+  "ens.eth": {
+    "coingecko_id": "ethereum-name-service",
+    "symbol": "ENS",
+    "yahoo_symbol": "ENS-USD",
+    "binance_symbol": "ENSUSDT"
+  },
+  "balancer.eth": {
+    "coingecko_id": "balancer",
+    "symbol": "BAL",
+    "yahoo_symbol": "BAL-USD",
+    "binance_symbol": "BALUSDT"
+  },
+  "1inch.eth": {
+    "coingecko_id": "1inch",
+    "symbol": "1INCH",
+    "yahoo_symbol": "1INCH-USD",
+    "binance_symbol": "1INCHUSDT"
+  },
+  "frax.eth": {
+    "coingecko_id": "frax",
+    "symbol": "FRAX",
+    "yahoo_symbol": "FRAX-USD",
+    "binance_symbol": "FRAXUSDT"
+  },
+  "olympusdao.eth": {
+    "coingecko_id": "olympus",
+    "symbol": "OHM",
+    "yahoo_symbol": "OHM-USD",
+    "binance_symbol": "OHMUSDT"
+  },
+  "fei.eth": {
+    "coingecko_id": "fei-usd",
+    "symbol": "FEI",
+    "yahoo_symbol": "FEI-USD",
+    "binance_symbol": null
+  },
+  "cream-finance.eth": {
+    "coingecko_id": "cream-2",
+    "symbol": "CREAM",
+    "yahoo_symbol": "CREAM-USD",
+    "binance_symbol": "CREAMUSDT"
+  },
+  "pickle.eth": {
+    "coingecko_id": "pickle-finance",
+    "symbol": "PICKLE",
+    "yahoo_symbol": "PICKLE-USD",
+    "binance_symbol": null
+  },
+  "uma.eth": {
+    "coingecko_id": "uma",
+    "symbol": "UMA",
+    "yahoo_symbol": "UMA-USD",
+    "binance_symbol": "UMAUSDT"
+  },
+  "curve.eth": {
+    "coingecko_id": "curve-dao-token",
+    "symbol": "CRV",
+    "yahoo_symbol": "CRV-USD",
+    "binance_symbol": "CRVUSDT"
+  },
+  "yearn": {
+    "coingecko_id": "yearn-finance",
+    "symbol": "YFI",
+    "yahoo_symbol": "YFI-USD",
+    "binance_symbol": "YFIUSDT"
+  },
+  "uniswap": {
+    "coingecko_id": "bridged-uniswap-lightlink",
+    "symbol": "uni.e",
+    "yahoo_symbol": "uni.e-USD",
+    "binance_symbol": "uni.eUSDT"
+  }
+}

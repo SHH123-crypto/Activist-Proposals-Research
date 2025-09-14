@@ -1,0 +1,1059 @@
+[
+  {
+    "id": "ethereum_makerdao",
+    "name": "Makerdao",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_compound",
+    "name": "Compound",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_aave",
+    "name": "Aave",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_uniswap",
+    "name": "Uniswap",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_yearn",
+    "name": "Yearn",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_curve",
+    "name": "Curve",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_balancer",
+    "name": "Balancer",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_sushi",
+    "name": "Sushi",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_1inch",
+    "name": "1Inch",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_synthetix",
+    "name": "Synthetix",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_badger",
+    "name": "Badger",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_convex",
+    "name": "Convex",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_frax",
+    "name": "Frax",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_olympus",
+    "name": "Olympus",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_tokemak",
+    "name": "Tokemak",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_ribbon",
+    "name": "Ribbon",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_alchemix",
+    "name": "Alchemix",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_liquity",
+    "name": "Liquity",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_reflexer",
+    "name": "Reflexer",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_fei",
+    "name": "Fei",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_rari",
+    "name": "Rari",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_cream",
+    "name": "Cream",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_alpha",
+    "name": "Alpha",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_harvest",
+    "name": "Harvest",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_pickle",
+    "name": "Pickle",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_vesper",
+    "name": "Vesper",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "ethereum_idle",
+    "name": "Idle",
+    "platform": "blockchain_native",
+    "network": "ethereum",
+    "discovery_method": "ethereum_ecosystem"
+  },
+  {
+    "id": "polygon_polygon",
+    "name": "Polygon",
+    "platform": "blockchain_native",
+    "network": "polygon",
+    "discovery_method": "polygon_ecosystem"
+  },
+  {
+    "id": "polygon_quickswap",
+    "name": "Quickswap",
+    "platform": "blockchain_native",
+    "network": "polygon",
+    "discovery_method": "polygon_ecosystem"
+  },
+  {
+    "id": "polygon_polymarket",
+    "name": "Polymarket",
+    "platform": "blockchain_native",
+    "network": "polygon",
+    "discovery_method": "polygon_ecosystem"
+  },
+  {
+    "id": "polygon_aavegotchi",
+    "name": "Aavegotchi",
+    "platform": "blockchain_native",
+    "network": "polygon",
+    "discovery_method": "polygon_ecosystem"
+  },
+  {
+    "id": "polygon_decentral-games",
+    "name": "Decentral Games",
+    "platform": "blockchain_native",
+    "network": "polygon",
+    "discovery_method": "polygon_ecosystem"
+  },
+  {
+    "id": "polygon_cometh",
+    "name": "Cometh",
+    "platform": "blockchain_native",
+    "network": "polygon",
+    "discovery_method": "polygon_ecosystem"
+  },
+  {
+    "id": "polygon_dfyn",
+    "name": "Dfyn",
+    "platform": "blockchain_native",
+    "network": "polygon",
+    "discovery_method": "polygon_ecosystem"
+  },
+  {
+    "id": "polygon_polyswap",
+    "name": "Polyswap",
+    "platform": "blockchain_native",
+    "network": "polygon",
+    "discovery_method": "polygon_ecosystem"
+  },
+  {
+    "id": "polygon_polydex",
+    "name": "Polydex",
+    "platform": "blockchain_native",
+    "network": "polygon",
+    "discovery_method": "polygon_ecosystem"
+  },
+  {
+    "id": "polygon_polycat",
+    "name": "Polycat",
+    "platform": "blockchain_native",
+    "network": "polygon",
+    "discovery_method": "polygon_ecosystem"
+  },
+  {
+    "id": "polygon_polyzap",
+    "name": "Polyzap",
+    "platform": "blockchain_native",
+    "network": "polygon",
+    "discovery_method": "polygon_ecosystem"
+  },
+  {
+    "id": "avalanche_avalanche",
+    "name": "Avalanche",
+    "platform": "blockchain_native",
+    "network": "avalanche",
+    "discovery_method": "avalanche_ecosystem"
+  },
+  {
+    "id": "avalanche_trader-joe",
+    "name": "Trader Joe",
+    "platform": "blockchain_native",
+    "network": "avalanche",
+    "discovery_method": "avalanche_ecosystem"
+  },
+  {
+    "id": "avalanche_pangolin",
+    "name": "Pangolin",
+    "platform": "blockchain_native",
+    "network": "avalanche",
+    "discovery_method": "avalanche_ecosystem"
+  },
+  {
+    "id": "avalanche_benqi",
+    "name": "Benqi",
+    "platform": "blockchain_native",
+    "network": "avalanche",
+    "discovery_method": "avalanche_ecosystem"
+  },
+  {
+    "id": "avalanche_wonderland",
+    "name": "Wonderland",
+    "platform": "blockchain_native",
+    "network": "avalanche",
+    "discovery_method": "avalanche_ecosystem"
+  },
+  {
+    "id": "avalanche_platypus",
+    "name": "Platypus",
+    "platform": "blockchain_native",
+    "network": "avalanche",
+    "discovery_method": "avalanche_ecosystem"
+  },
+  {
+    "id": "avalanche_vector",
+    "name": "Vector",
+    "platform": "blockchain_native",
+    "network": "avalanche",
+    "discovery_method": "avalanche_ecosystem"
+  },
+  {
+    "id": "avalanche_yield-yak",
+    "name": "Yield Yak",
+    "platform": "blockchain_native",
+    "network": "avalanche",
+    "discovery_method": "avalanche_ecosystem"
+  },
+  {
+    "id": "avalanche_kalao",
+    "name": "Kalao",
+    "platform": "blockchain_native",
+    "network": "avalanche",
+    "discovery_method": "avalanche_ecosystem"
+  },
+  {
+    "id": "avalanche_colony",
+    "name": "Colony",
+    "platform": "blockchain_native",
+    "network": "avalanche",
+    "discovery_method": "avalanche_ecosystem"
+  },
+  {
+    "id": "arbitrum_arbitrum",
+    "name": "Arbitrum",
+    "platform": "blockchain_native",
+    "network": "arbitrum",
+    "discovery_method": "arbitrum_ecosystem"
+  },
+  {
+    "id": "arbitrum_gmx",
+    "name": "Gmx",
+    "platform": "blockchain_native",
+    "network": "arbitrum",
+    "discovery_method": "arbitrum_ecosystem"
+  },
+  {
+    "id": "arbitrum_camelot",
+    "name": "Camelot",
+    "platform": "blockchain_native",
+    "network": "arbitrum",
+    "discovery_method": "arbitrum_ecosystem"
+  },
+  {
+    "id": "arbitrum_dopex",
+    "name": "Dopex",
+    "platform": "blockchain_native",
+    "network": "arbitrum",
+    "discovery_method": "arbitrum_ecosystem"
+  },
+  {
+    "id": "arbitrum_jones",
+    "name": "Jones",
+    "platform": "blockchain_native",
+    "network": "arbitrum",
+    "discovery_method": "arbitrum_ecosystem"
+  },
+  {
+    "id": "arbitrum_plutus",
+    "name": "Plutus",
+    "platform": "blockchain_native",
+    "network": "arbitrum",
+    "discovery_method": "arbitrum_ecosystem"
+  },
+  {
+    "id": "arbitrum_umami",
+    "name": "Umami",
+    "platform": "blockchain_native",
+    "network": "arbitrum",
+    "discovery_method": "arbitrum_ecosystem"
+  },
+  {
+    "id": "arbitrum_vesta",
+    "name": "Vesta",
+    "platform": "blockchain_native",
+    "network": "arbitrum",
+    "discovery_method": "arbitrum_ecosystem"
+  },
+  {
+    "id": "arbitrum_radiant",
+    "name": "Radiant",
+    "platform": "blockchain_native",
+    "network": "arbitrum",
+    "discovery_method": "arbitrum_ecosystem"
+  },
+  {
+    "id": "arbitrum_gains",
+    "name": "Gains",
+    "platform": "blockchain_native",
+    "network": "arbitrum",
+    "discovery_method": "arbitrum_ecosystem"
+  },
+  {
+    "id": "arbitrum_mycelium",
+    "name": "Mycelium",
+    "platform": "blockchain_native",
+    "network": "arbitrum",
+    "discovery_method": "arbitrum_ecosystem"
+  },
+  {
+    "id": "optimism_optimism",
+    "name": "Optimism",
+    "platform": "blockchain_native",
+    "network": "optimism",
+    "discovery_method": "optimism_ecosystem"
+  },
+  {
+    "id": "optimism_velodrome",
+    "name": "Velodrome",
+    "platform": "blockchain_native",
+    "network": "optimism",
+    "discovery_method": "optimism_ecosystem"
+  },
+  {
+    "id": "optimism_lyra",
+    "name": "Lyra",
+    "platform": "blockchain_native",
+    "network": "optimism",
+    "discovery_method": "optimism_ecosystem"
+  },
+  {
+    "id": "optimism_perpetual",
+    "name": "Perpetual",
+    "platform": "blockchain_native",
+    "network": "optimism",
+    "discovery_method": "optimism_ecosystem"
+  },
+  {
+    "id": "optimism_kwenta",
+    "name": "Kwenta",
+    "platform": "blockchain_native",
+    "network": "optimism",
+    "discovery_method": "optimism_ecosystem"
+  },
+  {
+    "id": "optimism_thales",
+    "name": "Thales",
+    "platform": "blockchain_native",
+    "network": "optimism",
+    "discovery_method": "optimism_ecosystem"
+  },
+  {
+    "id": "optimism_beethoven",
+    "name": "Beethoven",
+    "platform": "blockchain_native",
+    "network": "optimism",
+    "discovery_method": "optimism_ecosystem"
+  },
+  {
+    "id": "optimism_zipswap",
+    "name": "Zipswap",
+    "platform": "blockchain_native",
+    "network": "optimism",
+    "discovery_method": "optimism_ecosystem"
+  },
+  {
+    "id": "solana_solana",
+    "name": "Solana",
+    "platform": "blockchain_native",
+    "network": "solana",
+    "discovery_method": "solana_ecosystem"
+  },
+  {
+    "id": "solana_serum",
+    "name": "Serum",
+    "platform": "blockchain_native",
+    "network": "solana",
+    "discovery_method": "solana_ecosystem"
+  },
+  {
+    "id": "solana_raydium",
+    "name": "Raydium",
+    "platform": "blockchain_native",
+    "network": "solana",
+    "discovery_method": "solana_ecosystem"
+  },
+  {
+    "id": "solana_orca",
+    "name": "Orca",
+    "platform": "blockchain_native",
+    "network": "solana",
+    "discovery_method": "solana_ecosystem"
+  },
+  {
+    "id": "solana_marinade",
+    "name": "Marinade",
+    "platform": "blockchain_native",
+    "network": "solana",
+    "discovery_method": "solana_ecosystem"
+  },
+  {
+    "id": "solana_tulip",
+    "name": "Tulip",
+    "platform": "blockchain_native",
+    "network": "solana",
+    "discovery_method": "solana_ecosystem"
+  },
+  {
+    "id": "solana_francium",
+    "name": "Francium",
+    "platform": "blockchain_native",
+    "network": "solana",
+    "discovery_method": "solana_ecosystem"
+  },
+  {
+    "id": "solana_saber",
+    "name": "Saber",
+    "platform": "blockchain_native",
+    "network": "solana",
+    "discovery_method": "solana_ecosystem"
+  },
+  {
+    "id": "solana_quarry",
+    "name": "Quarry",
+    "platform": "blockchain_native",
+    "network": "solana",
+    "discovery_method": "solana_ecosystem"
+  },
+  {
+    "id": "solana_tribeca",
+    "name": "Tribeca",
+    "platform": "blockchain_native",
+    "network": "solana",
+    "discovery_method": "solana_ecosystem"
+  },
+  {
+    "id": "solana_dual",
+    "name": "Dual",
+    "platform": "blockchain_native",
+    "network": "solana",
+    "discovery_method": "solana_ecosystem"
+  },
+  {
+    "id": "solana_jet",
+    "name": "Jet",
+    "platform": "blockchain_native",
+    "network": "solana",
+    "discovery_method": "solana_ecosystem"
+  },
+  {
+    "id": "manual_yearn_finance",
+    "name": "Yearn Finance",
+    "platform": "manual_curation",
+    "category": "defi",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_curve_finance",
+    "name": "Curve Finance",
+    "platform": "manual_curation",
+    "category": "defi",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_sushiswap",
+    "name": "SushiSwap",
+    "platform": "manual_curation",
+    "category": "defi",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_badger_dao",
+    "name": "Badger DAO",
+    "platform": "manual_curation",
+    "category": "defi",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_convex_finance",
+    "name": "Convex Finance",
+    "platform": "manual_curation",
+    "category": "defi",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_frax_finance",
+    "name": "Frax Finance",
+    "platform": "manual_curation",
+    "category": "defi",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_olympus_dao",
+    "name": "Olympus DAO",
+    "platform": "manual_curation",
+    "category": "defi",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_ribbon_finance",
+    "name": "Ribbon Finance",
+    "platform": "manual_curation",
+    "category": "defi",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_fei_protocol",
+    "name": "Fei Protocol",
+    "platform": "manual_curation",
+    "category": "defi",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_rari_capital",
+    "name": "Rari Capital",
+    "platform": "manual_curation",
+    "category": "defi",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_cream_finance",
+    "name": "Cream Finance",
+    "platform": "manual_curation",
+    "category": "defi",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_ethereum_name_service",
+    "name": "Ethereum Name Service",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_the_graph",
+    "name": "The Graph",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_chainlink",
+    "name": "Chainlink",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_aragon",
+    "name": "Aragon",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_daostack",
+    "name": "DAOstack",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_moloch_dao",
+    "name": "Moloch DAO",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_metacartel",
+    "name": "MetaCartel",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_gitcoin",
+    "name": "Gitcoin",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_api3",
+    "name": "API3",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_uma_protocol",
+    "name": "UMA Protocol",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_keep_network",
+    "name": "Keep Network",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_nucypher",
+    "name": "NuCypher",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_livepeer",
+    "name": "Livepeer",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_helium",
+    "name": "Helium",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_filecoin",
+    "name": "Filecoin",
+    "platform": "manual_curation",
+    "category": "infrastructure",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_decentraland",
+    "name": "Decentraland",
+    "platform": "manual_curation",
+    "category": "gaming_nft",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_the_sandbox",
+    "name": "The Sandbox",
+    "platform": "manual_curation",
+    "category": "gaming_nft",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_axie_infinity",
+    "name": "Axie Infinity",
+    "platform": "manual_curation",
+    "category": "gaming_nft",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_illuvium",
+    "name": "Illuvium",
+    "platform": "manual_curation",
+    "category": "gaming_nft",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_gala_games",
+    "name": "Gala Games",
+    "platform": "manual_curation",
+    "category": "gaming_nft",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_enjin",
+    "name": "Enjin",
+    "platform": "manual_curation",
+    "category": "gaming_nft",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_immutable_x",
+    "name": "Immutable X",
+    "platform": "manual_curation",
+    "category": "gaming_nft",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_treasure_dao",
+    "name": "Treasure DAO",
+    "platform": "manual_curation",
+    "category": "gaming_nft",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_yield_guild_games",
+    "name": "Yield Guild Games",
+    "platform": "manual_curation",
+    "category": "gaming_nft",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_merit_circle",
+    "name": "Merit Circle",
+    "platform": "manual_curation",
+    "category": "gaming_nft",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_crypto_unicorns",
+    "name": "Crypto Unicorns",
+    "platform": "manual_curation",
+    "category": "gaming_nft",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_star_atlas",
+    "name": "Star Atlas",
+    "platform": "manual_curation",
+    "category": "gaming_nft",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_alien_worlds",
+    "name": "Alien Worlds",
+    "platform": "manual_curation",
+    "category": "gaming_nft",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_splinterlands",
+    "name": "Splinterlands",
+    "platform": "manual_curation",
+    "category": "gaming_nft",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_friends_with_benefits",
+    "name": "Friends with Benefits",
+    "platform": "manual_curation",
+    "category": "social_creator",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_bankless_dao",
+    "name": "Bankless DAO",
+    "platform": "manual_curation",
+    "category": "social_creator",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_developer_dao",
+    "name": "Developer DAO",
+    "platform": "manual_curation",
+    "category": "social_creator",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_cabin_dao",
+    "name": "Cabin DAO",
+    "platform": "manual_curation",
+    "category": "social_creator",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_forefront",
+    "name": "Forefront",
+    "platform": "manual_curation",
+    "category": "social_creator",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_seed_club",
+    "name": "Seed Club",
+    "platform": "manual_curation",
+    "category": "social_creator",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_global_coin_research",
+    "name": "Global Coin Research",
+    "platform": "manual_curation",
+    "category": "social_creator",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_rabbithole",
+    "name": "RabbitHole",
+    "platform": "manual_curation",
+    "category": "social_creator",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_coordinape",
+    "name": "Coordinape",
+    "platform": "manual_curation",
+    "category": "social_creator",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_mirror",
+    "name": "Mirror",
+    "platform": "manual_curation",
+    "category": "social_creator",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_lens_protocol",
+    "name": "Lens Protocol",
+    "platform": "manual_curation",
+    "category": "social_creator",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_farcaster",
+    "name": "Farcaster",
+    "platform": "manual_curation",
+    "category": "social_creator",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_cyberconnect",
+    "name": "CyberConnect",
+    "platform": "manual_curation",
+    "category": "social_creator",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_rally",
+    "name": "Rally",
+    "platform": "manual_curation",
+    "category": "social_creator",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_pleasrdao",
+    "name": "PleasrDAO",
+    "platform": "manual_curation",
+    "category": "investment_collector",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_flamingodao",
+    "name": "FlamingoDAO",
+    "platform": "manual_curation",
+    "category": "investment_collector",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_whale_dao",
+    "name": "Whale DAO",
+    "platform": "manual_curation",
+    "category": "investment_collector",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_lao",
+    "name": "LAO",
+    "platform": "manual_curation",
+    "category": "investment_collector",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_metacartel_ventures",
+    "name": "MetaCartel Ventures",
+    "platform": "manual_curation",
+    "category": "investment_collector",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_venture_dao",
+    "name": "Venture DAO",
+    "platform": "manual_curation",
+    "category": "investment_collector",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_orange_dao",
+    "name": "Orange DAO",
+    "platform": "manual_curation",
+    "category": "investment_collector",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_constitution_dao",
+    "name": "Constitution DAO",
+    "platform": "manual_curation",
+    "category": "investment_collector",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  },
+  {
+    "id": "manual_krause_house_dao",
+    "name": "Krause House DAO",
+    "platform": "manual_curation",
+    "category": "investment_collector",
+    "network": "ethereum",
+    "discovery_method": "manual_comprehensive"
+  }
+]

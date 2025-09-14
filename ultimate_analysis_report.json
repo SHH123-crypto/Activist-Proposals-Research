@@ -1,0 +1,28 @@
+{
+  "collection_summary": {
+    "total_proposals": 135,
+    "zero_shot_passed": 62,
+    "distilbert_passed": 0,
+    "zero_shot_pass_rate": 45.925925925925924,
+    "distilbert_pass_rate": 0.0,
+    "overall_activist_rate": 0.0
+  },
+  "source_analysis": {},
+  "dao_analysis": {},
+  "methodology": {
+    "data_sources": [
+      "snapshot.org",
+      "governance forums",
+      "manual curation"
+    ],
+    "ml_pipeline": [
+      "zero-shot classification",
+      "distilbert fine-tuning"
+    ],
+    "activist_criteria": [
+      "governance reform",
+      "protocol changes",
+      "community activism"
+    ]
+  }
+}
